@@ -1,0 +1,24 @@
+{
+  "UsersData" : {
+    "bCGUL1zUGeQKxiNVZw2Ilh6yCnN2" : {
+      "sensor" : {
+        "TDS" : 52.50,
+        "Temperature" : 22.00,
+        "pH" : 7.00,
+        "Turbidity" : 20.00
+      }, 
+      "sensor1" :{
+        "TDS1" : 52.50,
+        "Temperature1" : 22.00,
+        "pH1" : 7.00,
+        "Turbidity1" : 20.00
+      },
+      "sensor2" : {
+        "TDS2" : 52.50,
+        "Temperature2" : 22.00,
+        "pH2" : 7.00,
+        "Turbidity2" : 20.00
+      }
+    }
+  }
+}
